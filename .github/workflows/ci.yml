@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: CI
 
 "on":
@@ -28,3 +29,5 @@ jobs:
 
       - name: Run tests
         run: python manage.py test
+=======
+
